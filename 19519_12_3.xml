@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19519_12_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19519_12_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>362</width>
+    <height>524</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Dressing Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>14</xmin>
+      <ymin>36</ymin>
+      <xmax>75</xmax>
+      <ymax>221</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>92</xmin>
+      <ymin>5</ymin>
+      <xmax>252</xmax>
+      <ymax>168</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>56</xmin>
+      <ymin>367</ymin>
+      <xmax>210</xmax>
+      <ymax>387</ymax>
+    </bndbox>
+  </object>
+</annotation>

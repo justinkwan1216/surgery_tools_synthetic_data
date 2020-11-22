@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19422_98_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19422_98_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speculum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>142</xmin>
+      <ymin>108</ymin>
+      <xmax>310</xmax>
+      <ymax>280</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>180</xmin>
+      <ymin>9</ymin>
+      <xmax>369</xmax>
+      <ymax>72</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>165</xmin>
+      <ymin>151</ymin>
+      <xmax>279</xmax>
+      <ymax>250</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>132</ymin>
+      <xmax>197</xmax>
+      <ymax>296</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>20195_5_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/20195_5_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>536</width>
+    <height>373</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>27</xmin>
+      <ymin>19</ymin>
+      <xmax>200</xmax>
+      <ymax>156</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>296</xmin>
+      <ymin>140</ymin>
+      <xmax>383</xmax>
+      <ymax>308</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>29</xmin>
+      <ymin>33</ymin>
+      <xmax>205</xmax>
+      <ymax>120</ymax>
+    </bndbox>
+  </object>
+</annotation>

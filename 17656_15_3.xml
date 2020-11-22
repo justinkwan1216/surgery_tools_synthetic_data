@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>17656_15_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/17656_15_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>536</width>
+    <height>373</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>337</xmin>
+      <ymin>90</ymin>
+      <xmax>524</xmax>
+      <ymax>324</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>290</xmin>
+      <ymin>257</ymin>
+      <xmax>456</xmax>
+      <ymax>323</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Chopper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>95</xmin>
+      <ymin>254</ymin>
+      <xmax>260</xmax>
+      <ymax>293</ymax>
+    </bndbox>
+  </object>
+</annotation>

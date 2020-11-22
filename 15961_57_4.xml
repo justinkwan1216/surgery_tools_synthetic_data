@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>15961_57_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/15961_57_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>372</width>
+    <height>530</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>92</xmin>
+      <ymin>287</ymin>
+      <xmax>184</xmax>
+      <ymax>507</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>187</xmin>
+      <ymin>239</ymin>
+      <xmax>312</xmax>
+      <ymax>421</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>169</ymin>
+      <xmax>72</xmax>
+      <ymax>341</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speculum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>113</xmin>
+      <ymin>274</ymin>
+      <xmax>329</xmax>
+      <ymax>491</ymax>
+    </bndbox>
+  </object>
+</annotation>

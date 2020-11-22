@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>15395_7_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/15395_7_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>524</width>
+    <height>355</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>152</xmin>
+      <ymin>78</ymin>
+      <xmax>292</xmax>
+      <ymax>197</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speculum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>23</xmin>
+      <ymin>45</ymin>
+      <xmax>223</xmax>
+      <ymax>277</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>269</xmin>
+      <ymin>94</ymin>
+      <xmax>300</xmax>
+      <ymax>226</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>16</xmin>
+      <ymin>84</ymin>
+      <xmax>133</xmax>
+      <ymax>284</ymax>
+    </bndbox>
+  </object>
+</annotation>

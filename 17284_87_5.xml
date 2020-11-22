@@ -1,0 +1,74 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>17284_87_5.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/17284_87_5.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>536</width>
+    <height>373</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>380</xmin>
+      <ymin>16</ymin>
+      <xmax>500</xmax>
+      <ymax>251</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Handpiece</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>156</xmin>
+      <ymin>41</ymin>
+      <xmax>361</xmax>
+      <ymax>246</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>406</xmin>
+      <ymin>85</ymin>
+      <xmax>469</xmax>
+      <ymax>311</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>42</xmin>
+      <ymin>188</ymin>
+      <xmax>157</xmax>
+      <ymax>265</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>89</xmin>
+      <ymin>163</ymin>
+      <xmax>202</xmax>
+      <ymax>251</ymax>
+    </bndbox>
+  </object>
+</annotation>

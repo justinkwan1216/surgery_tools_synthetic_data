@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>17415_33_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/17415_33_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>56</xmin>
+      <ymin>263</ymin>
+      <xmax>167</xmax>
+      <ymax>344</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Cannula</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>121</xmin>
+      <ymin>63</ymin>
+      <xmax>262</xmax>
+      <ymax>290</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>372</xmin>
+      <ymin>108</ymin>
+      <xmax>506</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+</annotation>

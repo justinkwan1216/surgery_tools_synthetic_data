@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>16555_97_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/16555_97_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>536</width>
+    <height>373</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Cannula</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>291</xmin>
+      <ymin>39</ymin>
+      <xmax>435</xmax>
+      <ymax>115</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>106</ymin>
+      <xmax>296</xmax>
+      <ymax>204</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>176</xmin>
+      <ymin>10</ymin>
+      <xmax>278</xmax>
+      <ymax>172</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,86 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19593_26_6.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19593_26_6.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>536</width>
+    <height>373</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>95</xmin>
+      <ymin>89</ymin>
+      <xmax>195</xmax>
+      <ymax>278</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>83</xmin>
+      <ymin>86</ymin>
+      <xmax>218</xmax>
+      <ymax>216</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>209</xmin>
+      <ymin>77</ymin>
+      <xmax>425</xmax>
+      <ymax>129</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>156</xmin>
+      <ymin>154</ymin>
+      <xmax>355</xmax>
+      <ymax>250</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>227</xmin>
+      <ymin>212</ymin>
+      <xmax>396</xmax>
+      <ymax>281</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin>52</ymin>
+      <xmax>453</xmax>
+      <ymax>145</ymax>
+    </bndbox>
+  </object>
+</annotation>

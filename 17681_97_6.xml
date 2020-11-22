@@ -1,0 +1,86 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>17681_97_6.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/17681_97_6.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>536</width>
+    <height>373</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Chopper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>496</xmin>
+      <ymin>113</ymin>
+      <xmax>532</xmax>
+      <ymax>256</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>247</xmin>
+      <ymin>69</ymin>
+      <xmax>425</xmax>
+      <ymax>119</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>23</xmin>
+      <ymin>35</ymin>
+      <xmax>121</xmax>
+      <ymax>118</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>139</xmin>
+      <ymin>176</ymin>
+      <xmax>380</xmax>
+      <ymax>275</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>227</xmin>
+      <ymin>292</ymin>
+      <xmax>436</xmax>
+      <ymax>356</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>234</xmin>
+      <ymin>171</ymin>
+      <xmax>372</xmax>
+      <ymax>353</ymax>
+    </bndbox>
+  </object>
+</annotation>

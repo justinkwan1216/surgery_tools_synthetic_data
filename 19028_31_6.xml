@@ -1,0 +1,86 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19028_31_6.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19028_31_6.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>540</width>
+    <height>381</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>12</xmin>
+      <ymin>246</ymin>
+      <xmax>78</xmax>
+      <ymax>357</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Cannula</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>124</xmin>
+      <ymin>45</ymin>
+      <xmax>260</xmax>
+      <ymax>171</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Dressing Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>274</xmin>
+      <ymin>33</ymin>
+      <xmax>321</xmax>
+      <ymax>156</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>286</xmin>
+      <ymin>232</ymin>
+      <xmax>410</xmax>
+      <ymax>283</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>123</xmin>
+      <ymin>46</ymin>
+      <xmax>241</xmax>
+      <ymax>218</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Dressing Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>100</xmin>
+      <ymin>161</ymin>
+      <xmax>164</xmax>
+      <ymax>282</ymax>
+    </bndbox>
+  </object>
+</annotation>

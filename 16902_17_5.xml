@@ -1,0 +1,74 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>16902_17_5.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/16902_17_5.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>536</width>
+    <height>373</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>418</xmin>
+      <ymin>106</ymin>
+      <xmax>459</xmax>
+      <ymax>221</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>326</xmin>
+      <ymin>155</ymin>
+      <xmax>425</xmax>
+      <ymax>373</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Cannula</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>197</xmin>
+      <ymin>98</ymin>
+      <xmax>273</xmax>
+      <ymax>234</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>33</xmin>
+      <ymin>51</ymin>
+      <xmax>154</xmax>
+      <ymax>202</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>293</xmin>
+      <ymin>124</ymin>
+      <xmax>437</xmax>
+      <ymax>337</ymax>
+    </bndbox>
+  </object>
+</annotation>

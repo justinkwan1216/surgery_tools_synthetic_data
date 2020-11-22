@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>16290_38_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/16290_38_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>350</xmin>
+      <ymin>210</ymin>
+      <xmax>397</xmax>
+      <ymax>330</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>387</xmin>
+      <ymin>97</ymin>
+      <xmax>426</xmax>
+      <ymax>218</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pusher</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>21</xmin>
+      <ymin>66</ymin>
+      <xmax>92</xmax>
+      <ymax>189</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>53</xmin>
+      <ymin>65</ymin>
+      <xmax>133</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+</annotation>

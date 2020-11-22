@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>15297_98_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/15297_98_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>281</xmin>
+      <ymin>126</ymin>
+      <xmax>503</xmax>
+      <ymax>204</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speculum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>182</xmin>
+      <ymin>98</ymin>
+      <xmax>297</xmax>
+      <ymax>236</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>134</xmin>
+      <ymin>14</ymin>
+      <xmax>230</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>109</xmin>
+      <ymin>55</ymin>
+      <xmax>239</xmax>
+      <ymax>287</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,98 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>20256_14_7.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/20256_14_7.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>530</width>
+    <height>365</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>116</ymin>
+      <xmax>302</xmax>
+      <ymax>234</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>191</xmin>
+      <ymin>91</ymin>
+      <xmax>215</xmax>
+      <ymax>314</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>140</xmin>
+      <ymin>3</ymin>
+      <xmax>388</xmax>
+      <ymax>167</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>322</xmin>
+      <ymin>278</ymin>
+      <xmax>490</xmax>
+      <ymax>357</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>7</xmin>
+      <ymin>144</ymin>
+      <xmax>145</xmax>
+      <ymax>238</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>73</xmin>
+      <ymin>120</ymin>
+      <xmax>141</xmax>
+      <ymax>300</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>49</xmin>
+      <ymin>69</ymin>
+      <xmax>187</xmax>
+      <ymax>157</ymax>
+    </bndbox>
+  </object>
+</annotation>

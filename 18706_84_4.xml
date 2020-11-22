@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>18706_84_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/18706_84_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>388</width>
+    <height>542</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>73</xmin>
+      <ymin>360</ymin>
+      <xmax>253</xmax>
+      <ymax>427</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Chopper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>29</xmin>
+      <ymin>160</ymin>
+      <xmax>174</xmax>
+      <ymax>285</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>142</xmin>
+      <ymin>132</ymin>
+      <xmax>280</xmax>
+      <ymax>317</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>93</xmin>
+      <ymin>33</ymin>
+      <xmax>277</xmax>
+      <ymax>140</ymax>
+    </bndbox>
+  </object>
+</annotation>

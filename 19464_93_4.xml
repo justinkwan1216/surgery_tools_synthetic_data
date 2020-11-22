@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19464_93_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19464_93_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>524</width>
+    <height>355</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>320</xmin>
+      <ymin>155</ymin>
+      <xmax>460</xmax>
+      <ymax>192</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Dressing Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>303</xmin>
+      <ymin>75</ymin>
+      <xmax>473</xmax>
+      <ymax>211</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2</xmin>
+      <ymin>99</ymin>
+      <xmax>163</xmax>
+      <ymax>261</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>327</xmin>
+      <ymin>10</ymin>
+      <xmax>437</xmax>
+      <ymax>160</ymax>
+    </bndbox>
+  </object>
+</annotation>

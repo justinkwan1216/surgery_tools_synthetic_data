@@ -1,0 +1,74 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>17082_76_5.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/17082_76_5.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>540</width>
+    <height>381</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>24</xmin>
+      <ymin>4</ymin>
+      <xmax>65</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Chopper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>9</xmin>
+      <ymin>65</ymin>
+      <xmax>215</xmax>
+      <ymax>254</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>318</xmin>
+      <ymin>116</ymin>
+      <xmax>386</xmax>
+      <ymax>240</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>117</xmin>
+      <ymin>66</ymin>
+      <xmax>258</xmax>
+      <ymax>279</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>237</ymin>
+      <xmax>422</xmax>
+      <ymax>319</ymax>
+    </bndbox>
+  </object>
+</annotation>

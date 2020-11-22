@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>18211_62_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/18211_62_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>388</width>
+    <height>542</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>217</xmin>
+      <ymin>220</ymin>
+      <xmax>265</xmax>
+      <ymax>389</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>288</xmin>
+      <ymin>297</ymin>
+      <xmax>370</xmax>
+      <ymax>411</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Cannula</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>145</xmin>
+      <ymin>345</ymin>
+      <xmax>276</xmax>
+      <ymax>442</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>49</xmin>
+      <ymin>202</ymin>
+      <xmax>198</xmax>
+      <ymax>265</ymax>
+    </bndbox>
+  </object>
+</annotation>

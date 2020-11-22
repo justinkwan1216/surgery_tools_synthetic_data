@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>15351_41_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/15351_41_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>530</width>
+    <height>365</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speculum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>303</xmin>
+      <ymin>104</ymin>
+      <xmax>497</xmax>
+      <ymax>316</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>173</xmin>
+      <ymin>118</ymin>
+      <xmax>367</xmax>
+      <ymax>353</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>370</xmin>
+      <ymin>76</ymin>
+      <xmax>483</xmax>
+      <ymax>294</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>187</xmin>
+      <ymin>23</ymin>
+      <xmax>440</xmax>
+      <ymax>282</ymax>
+    </bndbox>
+  </object>
+</annotation>

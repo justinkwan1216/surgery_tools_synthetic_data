@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>16500_60_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/16500_60_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>325</xmin>
+      <ymin>154</ymin>
+      <xmax>351</xmax>
+      <ymax>292</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speculum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>98</xmin>
+      <ymin>124</ymin>
+      <xmax>240</xmax>
+      <ymax>303</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>67</xmin>
+      <ymin>145</ymin>
+      <xmax>232</xmax>
+      <ymax>291</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>63</xmin>
+      <ymin>67</ymin>
+      <xmax>97</xmax>
+      <ymax>224</ymax>
+    </bndbox>
+  </object>
+</annotation>

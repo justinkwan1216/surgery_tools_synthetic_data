@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19503_7_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19503_7_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>524</width>
+    <height>355</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>318</xmin>
+      <ymin>17</ymin>
+      <xmax>454</xmax>
+      <ymax>154</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>403</xmin>
+      <ymin>133</ymin>
+      <xmax>514</xmax>
+      <ymax>307</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Dressing Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>42</xmin>
+      <ymin>149</ymin>
+      <xmax>149</xmax>
+      <ymax>273</ymax>
+    </bndbox>
+  </object>
+</annotation>

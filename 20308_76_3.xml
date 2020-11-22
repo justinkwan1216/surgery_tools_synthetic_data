@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>20308_76_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/20308_76_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>540</width>
+    <height>381</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>391</xmin>
+      <ymin>149</ymin>
+      <xmax>446</xmax>
+      <ymax>272</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>338</xmin>
+      <ymin>153</ymin>
+      <xmax>455</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Cannula</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>364</xmin>
+      <ymin>198</ymin>
+      <xmax>440</xmax>
+      <ymax>355</ymax>
+    </bndbox>
+  </object>
+</annotation>

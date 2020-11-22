@@ -1,0 +1,74 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19566_95_5.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19566_95_5.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>536</width>
+    <height>373</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>411</xmin>
+      <ymin>65</ymin>
+      <xmax>489</xmax>
+      <ymax>213</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>340</xmin>
+      <ymin>127</ymin>
+      <xmax>456</xmax>
+      <ymax>201</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>378</xmin>
+      <ymin>89</ymin>
+      <xmax>507</xmax>
+      <ymax>204</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Handpiece</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>187</xmin>
+      <ymin>164</ymin>
+      <xmax>412</xmax>
+      <ymax>251</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>177</xmin>
+      <ymin>100</ymin>
+      <xmax>280</xmax>
+      <ymax>313</ymax>
+    </bndbox>
+  </object>
+</annotation>

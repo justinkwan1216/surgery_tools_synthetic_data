@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>15348_5_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/15348_5_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>536</width>
+    <height>373</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>315</xmin>
+      <ymin>203</ymin>
+      <xmax>441</xmax>
+      <ymax>367</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>438</xmin>
+      <ymin>214</ymin>
+      <xmax>532</xmax>
+      <ymax>368</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>106</xmin>
+      <ymin>93</ymin>
+      <xmax>318</xmax>
+      <ymax>306</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>169</xmin>
+      <ymin>142</ymin>
+      <xmax>308</xmax>
+      <ymax>264</ymax>
+    </bndbox>
+  </object>
+</annotation>

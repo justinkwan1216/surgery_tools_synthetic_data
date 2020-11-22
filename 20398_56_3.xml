@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>20398_56_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/20398_56_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>98</xmin>
+      <ymin>92</ymin>
+      <xmax>116</xmax>
+      <ymax>219</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>377</xmin>
+      <ymin>100</ymin>
+      <xmax>403</xmax>
+      <ymax>281</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Dressing Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>444</xmin>
+      <ymin>126</ymin>
+      <xmax>498</xmax>
+      <ymax>250</ymax>
+    </bndbox>
+  </object>
+</annotation>

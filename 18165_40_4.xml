@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>18165_40_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/18165_40_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>540</width>
+    <height>381</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>195</xmin>
+      <ymin>141</ymin>
+      <xmax>318</xmax>
+      <ymax>338</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>349</xmin>
+      <ymin>200</ymin>
+      <xmax>532</xmax>
+      <ymax>241</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>327</xmin>
+      <ymin>90</ymin>
+      <xmax>390</xmax>
+      <ymax>264</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Dressing Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>132</xmin>
+      <ymin>163</ymin>
+      <xmax>289</xmax>
+      <ymax>378</ymax>
+    </bndbox>
+  </object>
+</annotation>

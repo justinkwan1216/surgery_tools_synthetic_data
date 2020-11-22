@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>15514_42_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/15514_42_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>536</width>
+    <height>373</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Cannula</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>196</xmin>
+      <ymin>150</ymin>
+      <xmax>410</xmax>
+      <ymax>236</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>398</xmin>
+      <ymin>149</ymin>
+      <xmax>466</xmax>
+      <ymax>358</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>38</xmin>
+      <ymin>123</ymin>
+      <xmax>152</xmax>
+      <ymax>311</ymax>
+    </bndbox>
+  </object>
+</annotation>

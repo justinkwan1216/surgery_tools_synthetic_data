@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>17572_32_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/17572_32_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>219</xmin>
+      <ymin>185</ymin>
+      <xmax>254</xmax>
+      <ymax>335</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pusher</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>400</xmin>
+      <ymin>136</ymin>
+      <xmax>432</xmax>
+      <ymax>314</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>338</xmin>
+      <ymin>126</ymin>
+      <xmax>492</xmax>
+      <ymax>212</ymax>
+    </bndbox>
+  </object>
+</annotation>

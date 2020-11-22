@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>15458_49_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/15458_49_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>540</width>
+    <height>381</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>11</xmin>
+      <ymin>223</ymin>
+      <xmax>173</xmax>
+      <ymax>249</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speculum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>271</xmin>
+      <ymin>107</ymin>
+      <xmax>385</xmax>
+      <ymax>345</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>212</xmin>
+      <ymin>184</ymin>
+      <xmax>293</xmax>
+      <ymax>341</ymax>
+    </bndbox>
+  </object>
+</annotation>

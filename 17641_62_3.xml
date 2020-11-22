@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>17641_62_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/17641_62_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>388</width>
+    <height>542</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>139</xmin>
+      <ymin>289</ymin>
+      <xmax>297</xmax>
+      <ymax>411</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Handpiece</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>105</xmin>
+      <ymin>154</ymin>
+      <xmax>321</xmax>
+      <ymax>366</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>181</xmin>
+      <ymin>15</ymin>
+      <xmax>357</xmax>
+      <ymax>65</ymax>
+    </bndbox>
+  </object>
+</annotation>

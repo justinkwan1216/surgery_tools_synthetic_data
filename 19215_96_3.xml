@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19215_96_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19215_96_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Dressing Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>395</xmin>
+      <ymin>110</ymin>
+      <xmax>472</xmax>
+      <ymax>262</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Cannula</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>138</xmin>
+      <ymin>115</ymin>
+      <xmax>333</xmax>
+      <ymax>201</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>107</xmin>
+      <ymin>50</ymin>
+      <xmax>214</xmax>
+      <ymax>274</ymax>
+    </bndbox>
+  </object>
+</annotation>

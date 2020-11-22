@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19260_60_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19260_60_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>117</xmin>
+      <ymin>179</ymin>
+      <xmax>258</xmax>
+      <ymax>210</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>76</xmin>
+      <ymin>30</ymin>
+      <xmax>270</xmax>
+      <ymax>249</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Cannula</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>32</xmin>
+      <ymin>55</ymin>
+      <xmax>227</xmax>
+      <ymax>317</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,74 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19060_42_5.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19060_42_5.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>536</width>
+    <height>373</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>208</xmin>
+      <ymin>99</ymin>
+      <xmax>378</xmax>
+      <ymax>312</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>297</xmin>
+      <ymin>36</ymin>
+      <xmax>489</xmax>
+      <ymax>121</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>277</xmin>
+      <ymin>66</ymin>
+      <xmax>513</xmax>
+      <ymax>237</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>250</xmin>
+      <ymin>71</ymin>
+      <xmax>499</xmax>
+      <ymax>300</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>357</xmin>
+      <ymin>113</ymin>
+      <xmax>506</xmax>
+      <ymax>334</ymax>
+    </bndbox>
+  </object>
+</annotation>

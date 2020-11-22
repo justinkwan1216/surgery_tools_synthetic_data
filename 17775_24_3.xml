@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>17775_24_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/17775_24_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>324</xmin>
+      <ymin>153</ymin>
+      <xmax>465</xmax>
+      <ymax>214</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Handpiece</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>177</xmin>
+      <ymin>67</ymin>
+      <xmax>211</xmax>
+      <ymax>193</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>91</xmin>
+      <ymin>202</ymin>
+      <xmax>316</xmax>
+      <ymax>263</ymax>
+    </bndbox>
+  </object>
+</annotation>

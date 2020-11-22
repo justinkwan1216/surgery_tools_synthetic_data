@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19132_2_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19132_2_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>524</width>
+    <height>355</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>272</xmin>
+      <ymin>1</ymin>
+      <xmax>426</xmax>
+      <ymax>147</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>51</xmin>
+      <ymin>9</ymin>
+      <xmax>185</xmax>
+      <ymax>80</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speculum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>327</xmin>
+      <ymin>103</ymin>
+      <xmax>483</xmax>
+      <ymax>296</ymax>
+    </bndbox>
+  </object>
+</annotation>

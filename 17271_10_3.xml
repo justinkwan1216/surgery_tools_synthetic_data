@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>17271_10_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/17271_10_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>530</width>
+    <height>365</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>176</xmin>
+      <ymin>141</ymin>
+      <xmax>360</xmax>
+      <ymax>329</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>129</xmin>
+      <ymin>321</ymin>
+      <xmax>257</xmax>
+      <ymax>342</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>328</xmin>
+      <ymin>266</ymin>
+      <xmax>513</xmax>
+      <ymax>362</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19061_75_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19061_75_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>362</width>
+    <height>524</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>203</xmin>
+      <ymin>147</ymin>
+      <xmax>243</xmax>
+      <ymax>315</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speculum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>11</xmin>
+      <ymin>140</ymin>
+      <xmax>227</xmax>
+      <ymax>324</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>245</xmin>
+      <ymin>265</ymin>
+      <xmax>350</xmax>
+      <ymax>498</ymax>
+    </bndbox>
+  </object>
+</annotation>

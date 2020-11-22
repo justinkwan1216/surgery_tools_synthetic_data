@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>20458_86_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/20458_86_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>184</xmin>
+      <ymin>79</ymin>
+      <xmax>278</xmax>
+      <ymax>274</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>228</xmin>
+      <ymin>23</ymin>
+      <xmax>293</xmax>
+      <ymax>158</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Chopper</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>235</xmin>
+      <ymin>162</ymin>
+      <xmax>421</xmax>
+      <ymax>309</ymax>
+    </bndbox>
+  </object>
+</annotation>

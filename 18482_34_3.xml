@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>18482_34_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/18482_34_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>354</width>
+    <height>518</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Handpiece</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>128</xmin>
+      <ymin>362</ymin>
+      <xmax>288</xmax>
+      <ymax>472</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>283</xmin>
+      <ymin>281</ymin>
+      <xmax>304</xmax>
+      <ymax>509</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>167</xmin>
+      <ymin>279</ymin>
+      <xmax>206</xmax>
+      <ymax>428</ymax>
+    </bndbox>
+  </object>
+</annotation>

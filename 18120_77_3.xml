@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>18120_77_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/18120_77_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>354</width>
+    <height>518</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>15</xmin>
+      <ymin>103</ymin>
+      <xmax>175</xmax>
+      <ymax>359</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>98</xmin>
+      <ymin>101</ymin>
+      <xmax>267</xmax>
+      <ymax>187</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Handpiece</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>170</xmin>
+      <ymin>118</ymin>
+      <xmax>325</xmax>
+      <ymax>144</ymax>
+    </bndbox>
+  </object>
+</annotation>

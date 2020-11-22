@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>15801_43_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/15801_43_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>512</width>
+    <height>337</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speculum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>322</xmin>
+      <ymin>180</ymin>
+      <xmax>452</xmax>
+      <ymax>277</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Dressing Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>334</xmin>
+      <ymin>131</ymin>
+      <xmax>458</xmax>
+      <ymax>235</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>8</xmin>
+      <ymin>263</ymin>
+      <xmax>124</xmax>
+      <ymax>283</ymax>
+    </bndbox>
+  </object>
+</annotation>

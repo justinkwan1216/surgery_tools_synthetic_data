@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>19584_8_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/19584_8_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>310</xmin>
+      <ymin>59</ymin>
+      <xmax>443</xmax>
+      <ymax>259</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>449</xmin>
+      <ymin>80</ymin>
+      <xmax>505</xmax>
+      <ymax>232</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Tissue Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>74</xmin>
+      <ymin>264</ymin>
+      <xmax>279</xmax>
+      <ymax>346</ymax>
+    </bndbox>
+  </object>
+</annotation>

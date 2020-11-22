@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>16880_36_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/16880_36_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Handpiece</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>178</xmin>
+      <ymin>50</ymin>
+      <xmax>358</xmax>
+      <ymax>229</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>251</xmin>
+      <ymin>8</ymin>
+      <xmax>454</xmax>
+      <ymax>129</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>118</xmin>
+      <ymin>229</ymin>
+      <xmax>191</xmax>
+      <ymax>338</ymax>
+    </bndbox>
+  </object>
+</annotation>

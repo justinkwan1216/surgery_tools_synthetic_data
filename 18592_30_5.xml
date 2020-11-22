@@ -1,0 +1,74 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>18592_30_5.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/18592_30_5.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>536</width>
+    <height>373</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Dressing Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>376</xmin>
+      <ymin>87</ymin>
+      <xmax>522</xmax>
+      <ymax>127</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speculum</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>170</xmin>
+      <ymin>136</ymin>
+      <xmax>363</xmax>
+      <ymax>311</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>334</xmin>
+      <ymin>218</ymin>
+      <xmax>479</xmax>
+      <ymax>355</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Surgical Spoon</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>296</xmin>
+      <ymin>181</ymin>
+      <xmax>395</xmax>
+      <ymax>275</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>77</xmin>
+      <ymin>77</ymin>
+      <xmax>222</xmax>
+      <ymax>279</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>17583_21_4.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/17583_21_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>540</width>
+    <height>381</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Fixation Ring</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>419</xmin>
+      <ymin>203</ymin>
+      <xmax>502</xmax>
+      <ymax>369</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Needle Holder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>293</xmin>
+      <ymin>99</ymin>
+      <xmax>434</xmax>
+      <ymax>268</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>289</xmin>
+      <ymin>134</ymin>
+      <xmax>431</xmax>
+      <ymax>288</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>332</ymin>
+      <xmax>130</xmax>
+      <ymax>379</ymax>
+    </bndbox>
+  </object>
+</annotation>

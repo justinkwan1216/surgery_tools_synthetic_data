@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>18524_90_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/18524_90_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>372</width>
+    <height>530</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Dressing Forceps</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>210</xmin>
+      <ymin>134</ymin>
+      <xmax>297</xmax>
+      <ymax>345</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Spatula Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>10</xmin>
+      <ymin>168</ymin>
+      <xmax>171</xmax>
+      <ymax>217</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scalpel Handle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>105</xmin>
+      <ymin>87</ymin>
+      <xmax>201</xmax>
+      <ymax>211</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>16469_86_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/16469_86_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>518</width>
+    <height>347</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Hook Surgical</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>348</xmin>
+      <ymin>21</ymin>
+      <xmax>472</xmax>
+      <ymax>124</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>337</xmin>
+      <ymin>134</ymin>
+      <xmax>507</xmax>
+      <ymax>235</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>167</xmin>
+      <ymin>145</ymin>
+      <xmax>265</xmax>
+      <ymax>298</ymax>
+    </bndbox>
+  </object>
+</annotation>

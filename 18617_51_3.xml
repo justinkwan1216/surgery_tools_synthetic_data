@@ -1,0 +1,50 @@
+<annotation>
+  <folder>synthetic</folder>
+  <filename>18617_51_3.jpg</filename>
+  <path>/home/jk-pc/Desktop/ai_competition/synthetic/18617_51_3.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>372</width>
+    <height>530</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Iris Scissors</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>176</xmin>
+      <ymin>239</ymin>
+      <xmax>364</xmax>
+      <ymax>427</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Micro Scissor</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>141</xmin>
+      <ymin>192</ymin>
+      <xmax>238</xmax>
+      <ymax>367</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Pusher</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>296</xmin>
+      <ymin>271</ymin>
+      <xmax>360</xmax>
+      <ymax>449</ymax>
+    </bndbox>
+  </object>
+</annotation>
